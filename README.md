@@ -9,6 +9,8 @@ This project requires the following tools:
 1. NodeJS
 2. Yarn
 3. Pulumi
+4. NVM
+5. direnv
 
 ## Getting started
 

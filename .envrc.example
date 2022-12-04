@@ -1,0 +1,9 @@
+#
+# This is an example ".envrc". This file should only contain dummy data. No
+# API keys or secrets should be added to this file.
+#
+# You should copy the contents of this file to ".envrc" then add the secrets
+# and API keys.
+#
+
+export TESTING="Hello, World!"

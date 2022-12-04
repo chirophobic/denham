@@ -2,9 +2,8 @@
   "name": "denham",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
   "private": true,
-  "dependencies": {},
+  "packageManager": "yarn@3.3.0",
   "devDependencies": {
     "@nrwl/cli": "14.8.4",
     "@nrwl/js": "14.8.4",

@@ -1,7 +1,11 @@
 {
   "recommendations": [
-    
     "nrwl.angular-console",
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "mikestead.dotenv",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "github.vscode-pull-request-github",
+    "DavidAnson.vscode-markdownlint"
   ]
 }

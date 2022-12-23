@@ -6,6 +6,7 @@
     "editorconfig.editorconfig",
     "dbaeumer.vscode-eslint",
     "github.vscode-pull-request-github",
-    "DavidAnson.vscode-markdownlint"
+    "davidanson.vscode-markdownlint",
+    "ms-vscode-remote.remote-containers"
   ]
 }
